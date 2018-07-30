@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,ansi_styles",
+    "logging_enabled": "false",
+    "name": "ansi_stylesSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "ansi_stylesSmokeTest.js"
+}
